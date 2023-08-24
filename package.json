@@ -1,6 +1,6 @@
 {
   "name": "react-native-svg-circle-country-flags",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "React Native package based on react-native-svg with a collection of 400+ circular SVG flags.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
