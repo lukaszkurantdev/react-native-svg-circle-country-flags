@@ -1,7 +1,7 @@
 import * as React from 'react';
 
 import { StyleSheet, View, Text } from 'react-native';
-import { Languages, Al } from 'react-native-svg-country-flags';
+import { Languages, Al } from 'react-native-svg-circle-country-flags';
 
 export default function App() {
   return (

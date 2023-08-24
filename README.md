@@ -24,15 +24,15 @@ This library has a peer dependency on react-native-reanimated has to be installe
 ## Installation
 
 ```sh
-npm install react-native-svg-country-flags
+npm install react-native-svg-circle-country-flags
 # or 
-yarn add react-native-svg-country-flags
+yarn add react-native-svg-circle-country-flags
 ```
 
 ## Usage
 
 ```js
-import { Languages, Al } from 'react-native-svg-country-flags';
+import { Languages, Al } from 'react-native-svg-circle-country-flags';
 
 // ...
 

@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "./",
     "paths": {
-      "react-native-svg-country-flags": ["./src/index"]
+      "react-native-svg-circle-country-flags": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
