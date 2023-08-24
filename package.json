@@ -1,5 +1,5 @@
 {
-  "name": "react-native-svg-country-flags",
+  "name": "react-native-svg-circle-country-flags",
   "version": "0.1.0",
   "description": "React Native package based on react-native-svg with a collection of 400+ circular SVG flags.",
   "main": "lib/commonjs/index",
@@ -40,13 +40,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/lukaszkurantdev/react-native-svg-country-flags",
+  "repository": "https://github.com/lukaszkurantdev/react-native-svg-circle-country-flags",
   "author": "Lukasz Kurant <contact@lukaszkurant.com> (https://lukaszkurant.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lukaszkurantdev/react-native-svg-country-flags/issues"
+    "url": "https://github.com/lukaszkurantdev/react-native-svg-circle-country-flags/issues"
   },
-  "homepage": "https://github.com/lukaszkurantdev/react-native-svg-country-flags#readme",
+  "homepage": "https://github.com/lukaszkurantdev/react-native-svg-circle-country-flags#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

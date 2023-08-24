@@ -1,4 +1,4 @@
-# React Native Svg Country Flags
+# React Native Svg Circle Country Flags
 
 React Native package based on **react-native-svg** and **circle-flags** with a collection of **400+** circular SVG flags. To see full list of flags check: [circle-flags gallery](https://hatscripts.github.io/circle-flags/gallery).
 
